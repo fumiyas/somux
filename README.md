@@ -44,6 +44,6 @@ curl http://localhost:8080/
 
 See [example/](./example/) directory for more example.
 
-## Licence
+## License
 
 [MIT License](https://opensource.org/licenses/mit-license.php)
